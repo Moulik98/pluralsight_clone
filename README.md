@@ -29,7 +29,7 @@ For storing user data we also used localStorage.
 
 ![Courses page](
 https://i.ibb.co/Jjy23NW/ps-platform.png
-)
+
 
 <!-- * Plans and Pricing page
 
