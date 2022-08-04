@@ -7,7 +7,7 @@ Project: Make a clone of Pluralsight website.
 
 Original-Website: https://www.pluralsight.com
 
-Cloned-Website: https://comfy-crisp-eb53a8.netlify.app/
+Cloned-Website: https://pluralsight-c.netlify.app/
 
 Pluralsight is an online learning and workforce development platform that helps businesses and individuals adjust to changing technology. Pluralsight provide products to build tech skills & Get insights into your workflow.
 
